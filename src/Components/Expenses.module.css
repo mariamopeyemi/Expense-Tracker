@@ -1,0 +1,12 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.expenseItemContainer{
+    width: 600px;
+    background-color: rgb(78, 78, 134);; 
+    padding: 30px;                                                                                
+    /* height: 500px; */
+}
